@@ -1,7 +1,7 @@
 streamlit
 numpy
 pandas
-torch
+torch==2.3.0
 joblib
 shap
 matplotlib
