@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+torch
+joblib
+shap
+matplotlib
+Pillow
