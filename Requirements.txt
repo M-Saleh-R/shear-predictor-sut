@@ -1,9 +1,0 @@
-streamlit
-numpy
-pandas
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
-joblib
-shap
-matplotlib
-Pillow
